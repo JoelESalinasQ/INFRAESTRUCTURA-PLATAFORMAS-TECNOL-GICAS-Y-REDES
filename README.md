@@ -11,7 +11,7 @@
 
 | Nombre Completo       | Rol en el Proyecto                  | Contacto (GitHub/Email)      |
 |----------------------|------------------------------------|------------------------------|
-| Joel Salinas         | Administrador de Sistemas          | github.com/joelsalinas       |
+| Joel Salinas         | Administrador de Sistemas          | github.com/JoelESalinasQ       |
 
 
 ---
