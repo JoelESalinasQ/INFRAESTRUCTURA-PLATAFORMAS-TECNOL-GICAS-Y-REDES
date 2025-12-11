@@ -1,4 +1,4 @@
-# INFRAESTRUCTURA-PLATAFORMAS-TECNOL-GICAS-Y-REDES
+# INFRAESTRUCTURA PLATAFORMAS TECNOLGICAS Y REDES
 # Proyecto Final SIS313: Plataforma de Mensajería Instantánea Segura para la Comunidad Universitaria
 
 **Asignatura:** SIS313: Infraestructura, Plataformas Tecnológicas y Redes  
